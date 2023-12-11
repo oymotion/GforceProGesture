@@ -35,9 +35,6 @@ public class GameManage : MonoBehaviour
 
     int curGesture = 0;
 
-    float updataEmgConfigTime = 2;
-    float runEmgConfigTime = 0;
-
     #region unity
 
     private void Awake()
