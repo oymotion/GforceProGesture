@@ -15,7 +15,7 @@
   做手势2 放开物体  
   **需要先在gfrocePro app 训练手势**
 
-  <img src="Assets/Image/Device.png"/>
+  <img src="Assets/redeme_image/Device.png"/>
 
   
 #### 2. SDK 
