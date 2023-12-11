@@ -15,7 +15,8 @@
   做手势2 放开物体  
   **需要先在gfrocePro app 训练手势**
 
-  <img src="Assets/redeme_image/Device.png"/>
+  <img src="Assets/Image/Device.png"/>
+
   
 #### 2. SDK 
 sdk目前仅支持 win 和 Android 环境  
