@@ -16,7 +16,6 @@
   **需要先在gfrocePro app 训练手势**
 
   <img src="redeme_image/Device.png"/>
-
   
 #### 2. SDK 
 sdk目前仅支持 win 和 Android 环境  
@@ -68,7 +67,7 @@ dll都在Plugins中
  ##### GameManage 负责更新连接界面的UI, 连接设备,抓取物体
   * showDeviceItem()  
   创建初始化设备UI
-  * StopScan()
+  * StopScan()  
   停止扫描  
   * Connect(Device)  
   连接设备 设备为device  
@@ -120,7 +119,7 @@ dll都在Plugins中
 
 #### 4. 常见问题
 1. Q: 为什么我没有扫描到设备  
-   A:如果你在PC上(不管是不是安卓环境下) 你需要检查 设备初始化是否正确并完成,扫描是否正常开启,duangoushi是否在正常工作
+   A:如果你在PC上(不管是不是安卓环境下) 你需要检查 设备初始化是否正确并完成,扫描是否正常开启,duangou是否在正常工作
 
 2. Q:连接点击无反应  
    A:请检查连接的是否是正确设备,PC上扫描和连接有概率会丢失,可以多连接几次
